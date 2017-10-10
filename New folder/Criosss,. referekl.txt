@@ -1,0 +1,4 @@
+1. Clause is unique 
+2. Cross refference is graph
+3. Table of where things.
+4. 
